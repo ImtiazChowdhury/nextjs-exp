@@ -1,0 +1,17 @@
+.suggestion{
+    cursor: pointer;
+}
+
+.suggestion:hover{
+    background: #f8f9fa !important;
+}
+
+.suggestionContainer{
+    position: absolute;
+    background: #fff;
+    z-index: 100;
+}
+
+.relativeContainer{
+    position: relative;
+}

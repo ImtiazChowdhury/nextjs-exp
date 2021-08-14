@@ -1,0 +1,7 @@
+.image{
+    min-width: 60%;
+    max-width: 80%;
+    min-height: 200px;
+    position: relative;
+    margin:auto;
+}
